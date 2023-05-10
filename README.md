@@ -14,4 +14,4 @@ Install the dependencies with pipenv
 
 Run the notebook inside the virtual environment
 
-```pipenv run jupyter notebook```
+```pipenv run jupyter notebook federated-learning.ipynb```
