@@ -5,9 +5,9 @@ name = "pypi"
 
 [packages]
 tensorflow = "*"
-tensorflow-federated = "*"
 notebook = "*"
 matplotlib = "*"
+ipywidgets = "*"
 
 [dev-packages]
 
